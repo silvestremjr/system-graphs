@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "email": "usuariocomum@teste.com.br",
+            "nivel_acesso": "funcionario",
+            "senha": "123"
+        },
+        {
+            "id": 2,
+            "email": "usuarioadm@teste.com.br",
+            "nivel_acesso": "administrador",
+            "senha": "123"
+        }
+    ]
+}
