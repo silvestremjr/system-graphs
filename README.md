@@ -2,7 +2,7 @@
 
 ## Test users
 To test the application, use the following users with their respective privileges:
-`
+```
     {
         "id": 1,
         "email": "usuariocomum@teste.com.br",
@@ -15,4 +15,4 @@ To test the application, use the following users with their respective privilege
         "nivel_acesso": "administrador",
         "senha": "123"
     }
-`
+```
