@@ -16,3 +16,9 @@ To test the application, use the following users with their respective privilege
         "senha": "123"
     }
 ```
+
+## Libs
+- React Router DOM
+- Bootstrap
+- Emotion / Styled Components / JSS
+- ApexCharts
